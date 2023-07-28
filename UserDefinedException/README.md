@@ -11,7 +11,9 @@ This enhances code readability, promotes better error handling practices, and ad
 However, it's essential to use checked exceptions judiciously. Overuse of checked exceptions can lead to code clutter and boilerplate exception handling in methods where immediate error recovery might not be necessary. In such cases, unchecked exceptions (extending "RuntimeException" or its subclasses) might be more appropriate.
 
 User-defined exceptions may be implemented by
+
 • defining a class to respond to the exception and
+
 • embedding a throw statement in the try block where the exception can occur or
 declaring that the method throws the exception (to another method where it is
 handled).

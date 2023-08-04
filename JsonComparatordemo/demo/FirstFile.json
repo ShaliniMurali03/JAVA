@@ -1,0 +1,43 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "email": "john.doe@example.com",
+  "address": {
+    "street": "123 Main Street",
+    "city": "New York",
+    "zipcode": "10001"
+  },
+  "hobbies": ["reading", "cooking", "traveling"],
+  "education": {
+    "degree": "Bachelor's",
+    "major": "Computer Science",
+    "university": "XYZ University",
+    "graduationYear": 2015
+  },
+  "friends": [
+    {
+      "name": "Alice",
+      "age": 28,
+      "email": "alice@example.com"
+    },
+    {
+      "name": "Bob",
+      "age": 32,
+      "email": "bob@example.com"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Project A",
+      "description": "Web Application",
+      "teamMembers": ["John", "Alice"],
+      "status": "Completed"
+    },
+    {
+      "title": "Project B",
+      "description": "Mobile App",
+      "teamMembers": ["Bob", "John"],
+      "status": "In Progress"
+    }
+  ]
+}

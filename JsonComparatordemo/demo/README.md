@@ -1,4 +1,4 @@
-Import First and Second JSON File in your local desktop for the comparison.
+Import First and Second JSON File for sample in your local desktop for the comparison.
 
 Open Command Prompt,
 
